@@ -26,5 +26,6 @@
     "mocha": "^6.2.2",
     "number-to-words-en": "^1.2.5",
     "semver": "^6.3.0"
-  }
+  },
+  "devDependencies": {}
 }
